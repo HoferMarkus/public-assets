@@ -1,2 +1,2 @@
-# public-assets
-This repository is used for adding stuff everybody should have access to
+# Usage in BabylonJS playground
+"https://raw.githubusercontent.com/HoferMarkus/public-assets/main/"
