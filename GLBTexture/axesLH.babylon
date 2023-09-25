@@ -5,7 +5,7 @@
     "exporter_version": "3.3.1",
     "file": "debugAxisBabylon.babylon"
   },
-  "useRightHandedSystem": true,
+  "useRightHandedSystem": false,
   "autoClear": true,
   "clearColor": [
     0.0509,
