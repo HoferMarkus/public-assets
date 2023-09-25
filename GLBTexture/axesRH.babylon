@@ -41,8 +41,8 @@
       "metallic": 0
     },
     {
-      "name": "xCube",
-      "id": "xCube",
+      "name": "xCubeBab",
+      "id": "xCubeBab",
       "customType": "BABYLON.PBRMaterial",
       "emissive": [
         0,
@@ -90,8 +90,8 @@
       "metallic": 0
     },
     {
-      "name": "yCube",
-      "id": "yCube",
+      "name": "yCubeBab",
+      "id": "yCubeBab",
       "customType": "BABYLON.PBRMaterial",
       "emissive": [
         0,
@@ -139,8 +139,8 @@
       "metallic": 0
     },
     {
-      "name": "zCube",
-      "id": "zCube",
+      "name": "zCubeBab",
+      "id": "zCubeBab",
       "customType": "BABYLON.PBRMaterial",
       "emissive": [
         0,
@@ -4728,7 +4728,7 @@
     {
       "name": "cubeX",
       "id": "cubeX",
-      "materialId": "xCube",
+      "materialId": "xCubeBab",
       "billboardMode": 0,
       "position": [
         0,
@@ -9614,7 +9614,7 @@
     {
       "name": "cubeY",
       "id": "cubeY",
-      "materialId": "yCube",
+      "materialId": "yCubeBab",
       "billboardMode": 0,
       "position": [
         0,
@@ -14452,7 +14452,7 @@
     {
       "name": "cubeZ",
       "id": "cubeZ",
-      "materialId": "zCube",
+      "materialId": "zCubeBab",
       "billboardMode": 0,
       "position": [
         0,
