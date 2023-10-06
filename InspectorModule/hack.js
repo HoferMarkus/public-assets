@@ -1,5 +1,6 @@
-import babylonjsinspector from "https://cdn.jsdelivr.net/npm/@babylonjs/inspector@6.23.0/+esm";
 import { EngineStore } from "https://cdn.jsdelivr.net/npm/@babylonjs/core@6.23.0/+esm";
+import "https://cdn.jsdelivr.net/npm/@babylonjs/core@6.23.0/Debug/debugLayer.js";
+import babylonjsinspector from "https://cdn.jsdelivr.net/npm/@babylonjs/inspector@6.23.0/+esm";
 
 console.log(EngineStore);
 console.log(babylonjsinspector);
