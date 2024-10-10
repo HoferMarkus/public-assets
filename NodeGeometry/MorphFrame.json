@@ -752,9 +752,9 @@
         ]
       }
     ],
-    "x": 1074.2476071387516,
-    "y": 134.5410464509486,
-    "zoom": 0.5518800018598178
+    "x": 307.894606553313,
+    "y": 128.0533533005841,
+    "zoom": 0.14669658558814921
   },
   "customType": "BABYLON.NodeGeometry",
   "outputNodeId": 35,
@@ -1783,7 +1783,7 @@
       "max": 2,
       "groupInInspector": "",
       "valueType": "number",
-      "value": 0.8
+      "value": 0.58
     },
     {
       "customType": "BABYLON.TeleportInBlock",
@@ -1962,7 +1962,7 @@
       "max": 2,
       "groupInInspector": "",
       "valueType": "number",
-      "value": 0.84
+      "value": 0.9
     },
     {
       "customType": "BABYLON.TeleportInBlock",
@@ -1995,10 +1995,10 @@
       "type": 2,
       "contextualValue": 0,
       "min": 0,
-      "max": 0.75,
+      "max": 5,
       "groupInInspector": "",
       "valueType": "number",
-      "value": 0.51
+      "value": 0.75
     },
     {
       "customType": "BABYLON.TeleportInBlock",
@@ -2034,7 +2034,7 @@
       "max": 2,
       "groupInInspector": "",
       "valueType": "number",
-      "value": 0.92
+      "value": 0.86
     },
     {
       "customType": "BABYLON.TeleportInBlock",
